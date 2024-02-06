@@ -255,7 +255,8 @@ gross_year_sorted
 gross_year_sorted.plot(kind="bar", rot=60)
 
 
-# In[ ]:
+# In[ ]:# Export file as as csv file
+movies_data.to_csv("Movies Data")
 
 
 
