@@ -11,4 +11,4 @@ Lastly, the data was analysed to get insights which are summarised below:
 2. The top grossing movie of all time is Avatar in 2009, closely followed by Avengers Endgame in 2019
 3. The year that grossed the highest was 2019: 1.243737e+10 and the least year is 1999: 1.027083e+09 which is not surprising at all. The number of onscreen time has been rising progressively as suggested by other data and this is reflecting in the surge from the 2010s till date.
  
-![Alt text](https://github.com/Sunday-Oladokun/Webscraping-Cleaning-Analysis-of-Top-Grossing-Movies/blob/main/Top%20Grossing%20Movies.png)
+![Alt text](https://github.com/Sunday-Oladokun/Webscraping-Cleaning-Analysis-of-Top-Grossing-Movies/blob/main/Top%20Grossing%20Movies..png)
